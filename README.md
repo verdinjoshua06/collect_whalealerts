@@ -36,3 +36,4 @@ poetry install
 
 poetry run python fetch_transactions.py
 ```
+Joshua Verdin 
